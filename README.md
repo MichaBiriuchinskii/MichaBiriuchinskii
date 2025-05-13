@@ -29,5 +29,5 @@ You’ll find:
 - 📦 Open-source contributions (TAL, OCR/HTR, LLMs)  
 - 🧪 Experiments with Transformers, embeddings, and vector DBs
 
-🧭 *Open to new opportunities from September 2025.*
+🧭 ***Open to new opportunities from September 2025**.*
 
